@@ -29,12 +29,12 @@ st.markdown('''
         <h2>Pros and Cons of GPT-3 for HR Professionals</h2>
         <p>The most significant benefit of GPT-3 for HR professionals is its ability to automate mundane tasks and free up valuable time. GPT-3 can generate job postings and employee reviews, allowing HR professionals to quickly identify and hire the best candidates. Additionally, GPT-3 can be used to streamline tedious tasks like employee onboarding and benefits administration.</p>
         <p>However, there are also some potential drawbacks to GPT-3 for HR professionals. GPT-3 is still a relatively new technology and its effectiveness has not yet been fully evaluated. Additionally, GPT-3 is expensive to implement and maintain, so it may not be a feasible solution for smaller organizations.</p>
-        <h2>How to Take Advantage of AI - GPT-3 to be Best HR</h2>
+        <h2>How to Take Advantage of AI - GPT-3 to be Upgrade to "AI-HR"</h2>
         <p>To take advantage of AI and GPT-3, HR professionals should start by familiarizing themselves with the technology. Understanding the basics of GPT-3 and its capabilities can help HR professionals identify areas where it can be used to automate mundane tasks and improve efficiency. Additionally, HR professionals should use GPT-3 to generate personalized job postings and employee reviews to quickly identify and hire the best candidates. Finally, HR professionals should consider using GPT-3 to automate tedious tasks like employee onboarding and benefits administration.</p>
-        <h2>Examples and Images</h2>
-        <p>GPT-3 can be used to generate job postings, such as this one:</p>
-        <p>GPT-3 can also be used to generate personalized employee reviews, such as this one:</p>
-        <p>GPT-3 can also streamline tedious tasks like employee onboarding and benefits administration:</p>
+        <h2>Examples</h2>
+        <p>GPT-3 can be used to generate job postings, such as this one</p>
+        <p>GPT-3 can also be used to generate personalized employee reviews</p>
+        <p>GPT-3 can also streamline tedious tasks like employee onboarding and benefits administration</p>
         <h2>Conclusion</h2>
         <p>GPT-3 is a powerful tool for HR professionals that can automate mundane tasks and streamline tedious processes. GPT-3 can be used to generate job postings and employee reviews to quickly identify and hire the best candidates. Additionally, GPT-3 can be used to automate tedious tasks like employee onboarding and benefits administration. To take advantage of AI and GPT-3, HR professionals should start by familiarizing themselves with the technology and use GPT-3 to automate mundane tasks and improve efficiency.</p>
     </body>
